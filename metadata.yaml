@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42111
     wikipedia: https://en.wikipedia.org/wiki/Engelbert_Humperdinck_(composer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43289#Hansel-and-Gretel--13-A-Fairy-Opera-in-Three-Acts
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2013-07-24'
 gutenberg_type: Text
